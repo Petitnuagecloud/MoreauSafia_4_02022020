@@ -365,7 +365,14 @@ a:hover {
     position: relative;
     z-index: 2;
 }
-
+.stretch {
+    display:flex;
+    justify-content: space-around;
+}
+.centerforce {
+   display: flex;
+   justify-content: center;
+}
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
