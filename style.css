@@ -373,6 +373,10 @@ a:hover {
    display: flex;
    justify-content: center;
 }
+.logo {
+    width: 214px;
+    height: 40px;
+}
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
